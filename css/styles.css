@@ -1,6 +1,8 @@
-.card {
-      padding: 50px;
-  }
-.btn btn-primary {
-    background-color: #C12F5D;
+
+html {
+    margin: 20px 20px;
+}
+.card-img-left {
+    width: 100px;
+    height: 100px;
 }
